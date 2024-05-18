@@ -1,0 +1,7 @@
+CS101,Programming_1,5
+CS501,Database_1,6
+CS301,Data_Structure,6
+MAT101,Calculus_1,3
+PhY101,Physics,5
+ESE101,Circuits_1,6
+ECE101,Logic_1,5

@@ -1,0 +1,6 @@
+80,Math
+90,English
+95,Physics
+85,History
+100,Chemistry
+97,Programming
